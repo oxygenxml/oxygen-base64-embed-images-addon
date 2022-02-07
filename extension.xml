@@ -13,7 +13,7 @@
 				<title>Oxygen Base64 Embed Images</title>
 			</head>
 			<body>
-			 	<h1>>Oxygen Base64 Embed Images</h1>
+			 	<h1>Oxygen Base64 Embed Images</h1>
 				<div>
 					<p>Embed all images referenced in DITA, Docbook or XHTML documents
 						as base 64 encoded</p>
