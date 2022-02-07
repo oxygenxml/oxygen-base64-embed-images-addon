@@ -3,7 +3,7 @@
  id="oxygen-embed-images"
  name="Embed Images"
  description="Embed all images referenced in DITA, Docbook or XHTML documents as base 64 encoded."
- version="1.0"
+ version="${project.nosnapshot.version}"
  vendor="Syncro Soft"
  class="ro.sync.exml.plugin.Plugin"
  classLoaderType="preferReferencedResources">
