@@ -10,7 +10,7 @@
 		<version>24.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>oxygen-embed-images-addon</artifactId>
+	<artifactId>oxygen-base64-embed-images-addon</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
