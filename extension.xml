@@ -10,15 +10,16 @@
 	<xt:description>
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
-				<title>Oxygen Embed Images</title>
+				<title>Oxygen Base64 Embed Images</title>
 			</head>
 			<body>
+			 	<h1>>Oxygen Base64 Embed Images</h1>
 				<div>
 					<p>Embed all images referenced in DITA, Docbook or XHTML documents
 						as base 64 encoded</p>
 					<p>
 						For more details see:
-						<a href="https://github.com/oxygenxml/oxygen-embed-images">https://github.com/oxygenxml/oxygen-embed-images</a>
+						<a href="https://github.com/oxygenxml/oxygen-base64-embed-images-addon">https://github.com/oxygenxml/oxygen-base64-embed-images-addon</a>
 					</p>
 				</div>
 			</body>
